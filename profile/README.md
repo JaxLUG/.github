@@ -1,5 +1,7 @@
 <div style="background-color: #333; border: 1px solid gray; border-radius: 6px; margin: 0 0 1em 0; padding: 1em;">
-<img src="https://raw.githubusercontent.com/JaxLUG/logos/refs/heads/master/JaxLUG-Banner.svg">
+  <a href="https://jaxlug.ngo/">
+    <img src="https://raw.githubusercontent.com/JaxLUG/logos/refs/heads/master/JaxLUG-Banner.svg">
+  </a>
 </div>
 
 # Jacksonville Linux Users Group™ - JaxLUG™
